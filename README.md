@@ -16,4 +16,6 @@ This model lead to the following metrics on unseen test data:
 * Recall: 0.722
 * F1 score: 0.738
 * Roc-auc: 0.743
+
+
 I deem this accuracy rate to be acceptable given that we used a relatively simple architecture for neural network, which easily surpassed traditional ml approaches.
