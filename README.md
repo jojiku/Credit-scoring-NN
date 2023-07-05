@@ -1,7 +1,8 @@
 # Credit-scoring-NN
-Neural networks approach for the credit scoring problem
+## Neural networks approach for the credit scoring problem
 
-The core idea of this project is to predit whether a client will default his credit or successfully pay it. According to prediction the decision of providing a credit is given. For that purpose I used data from credit scoring competition based on credit history data from the Alfa-Bank Machine Learning Laboratory and the Open Data Science Community (https://ods.ai/competitions/dl-fintech-bki).
+The core idea of this project is to predit whether a client will default his credit or successfully pay it. 
+Based on projections, the decision to grant credit is made. For that purpose I used data from credit scoring competition based on credit history data from the Alfa-Bank Machine Learning Laboratory and the Open Data Science Community (https://ods.ai/competitions/dl-fintech-bki).
 ---
 Dataset includes credit history of clients who were previously given with credits.  
 We will be using a neural approach as a main method as neural networks in recent years have begun to steadily surpass traditional ml methods in binary classification problems.
